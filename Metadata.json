@@ -1,0 +1,20 @@
+{
+    "Author": "Sam Boutros",
+    "ContentSize": 35148,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/powershell-script-to-monitor-and-email-report-on-storsimple-backups/master/Monitor-StorSimpleBackup3.ps1",
+    "DownloadCount": 1533,
+    "Id": "Powershell-script-to-eba7e4c5",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 402,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2015-11-10T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "StorSimple hybrid cloud storage device is managed from the Azure Management Interface. Local and cloud Snapshots are typically setup for its iSCSI volumes. The current Azure interface provides email alerts for various error conditions but it does not report on successfull backu",
+    "Title": "Powershell script to monitor and email report on StorSimple backups",
+    "UpdatedDate": "2016-9-16T00:00:00",
+    "Url": "https://github.com/azureautomation/powershell-script-to-monitor-and-email-report-on-storsimple-backups",
+    "UserTags": "Powershell, StorSimple, Monitor StorSimple Backup"
+}
